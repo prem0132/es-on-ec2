@@ -1,0 +1,8 @@
+**creds/
+**.terraform/
+terraform.tfstate*
+provider.tf
+query_post
+Question.MD
+.terraform.tfstate*
+secrets.tfvars
