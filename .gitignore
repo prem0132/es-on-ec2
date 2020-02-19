@@ -6,3 +6,4 @@ query_post
 Question.MD
 .terraform.tfstate*
 secrets.tfvars
+**/providers.tf
