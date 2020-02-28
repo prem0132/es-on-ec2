@@ -3,6 +3,6 @@
 #
 
 variable "cluster-name" {
-  default = "eks-murphy"
+  default = "eks-murphy-prem"
   type    = string
 }
